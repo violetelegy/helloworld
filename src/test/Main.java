@@ -5,5 +5,7 @@ public class Main {
 		for(int i = 1;i<=100; i++)
 			System.out.println("hello word");
 			System.out.println("hahaha");
+			Haha haha = new Haha();
+			System.out.println(haha.getI());
 	}
 }
